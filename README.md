@@ -8,3 +8,5 @@
 
 ### 결과
 ![result](./image/slang_translation_result.png)
+
+**개선의 여지가 많이 있습니다 :)**
