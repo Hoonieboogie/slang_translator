@@ -6,4 +6,4 @@
 "오늘 날씨 좋다!" => "오늘 날씨 지리누!"
 
 ### 결과
-[result](image/slang_translation_result.png)
+[result](./image/slang_translation_result.png)
