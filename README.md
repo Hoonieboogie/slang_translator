@@ -8,6 +8,6 @@
 - "오늘 많이 힘들어?" => "이 ㅅㄲ 돌았누 ㅋㅋ"
 
 ### 결과
-![result](./image/slang_translation_result.png)
+![result](./image/result.png)
 
 **개선의 여지가 많이 있습니다 :)**
